@@ -1,0 +1,6 @@
+c:\users\dredd\documents\visual studio 2013\Projects\PseudoNao\PseudoNao\bin\Debug\PseudoNao.exe.config
+c:\users\dredd\documents\visual studio 2013\Projects\PseudoNao\PseudoNao\bin\Debug\PseudoNao.exe
+c:\users\dredd\documents\visual studio 2013\Projects\PseudoNao\PseudoNao\bin\Debug\PseudoNao.pdb
+c:\users\dredd\documents\visual studio 2013\Projects\PseudoNao\PseudoNao\obj\Debug\PseudoNao.exe
+c:\users\dredd\documents\visual studio 2013\Projects\PseudoNao\PseudoNao\obj\Debug\PseudoNao.pdb
+C:\Users\Dredd\Documents\Visual Studio 2013\Projects\PseudoNAO\PseudoNao\obj\Debug\PseudoNao.csprojResolveAssemblyReference.cache
